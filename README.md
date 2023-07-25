@@ -1,6 +1,6 @@
 # Investment Calculator
 
-![Design do Projeto](Design.png)
+![Design do Projeto](design.png)
 
 ## Sobre
 
